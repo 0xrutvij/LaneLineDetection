@@ -1,0 +1,11 @@
+Processed image lane/lane3.jpeg
+Processed image lane/lane2.jpeg
+Processed image lane/lane3_red.jpeg
+Processed image lane/lane2_red.jpeg
+Processed image lane/lane5_stop.jpeg
+Processed image lane/lane4.jpeg
+Processed image lane/stop.jpeg
+Processed image lane/lane1.jpeg
+Found stop sign in lane/lane5_stop.jpeg
+Found stop sign in lane/stop.jpeg
+total of  31  detections
